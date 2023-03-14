@@ -1,0 +1,47 @@
+ElsaticSearch : developed in java programming lang 
+highly scalable document storage engine 
+=> perform detailed analysis and store all data centrally 
+=> document based , instead of schemes and tables , 
+===============> using ElsaticSearch as a NoSQL Database <======================
+*/perform and combine verious types of data
+*/ you can retireve the result from the data
+*/allawys th eusers to ask the query anayway they want 
+
+*/takes care  both of th analysis and query on data
+*/ helps to complete the search query based on the previous searches
+===============> DIffernet usages of ElsaticSearch <======================
+--->Textual search
+---> product search
+--->geo search
+--->dat aaggregation
+--->auto seguestion
+--->auto complete
+---> Json document storage
+--->Metrics and analysis
+======++++> Where can it be used 
+=> storage and analysis tool 
+=> schema less nature> extracting the metrics from the incoming connection in real time 
+===================================> Advantages of ElasticSearch ===============================
+==> Running on everyplatforme because it uses java
+==>offer the concept of the gateway , allaows for creating full backups easily
+==> distibuted / document oriented / easy to scale up in a large organisations
+==> documentaiton is available in differnet languages
+==> FREEEEEEEEE X) 
+==> supporting all document types , 
+
+===================================> Disadvantages  of ElasticSearch ===============================
+=> the split brain situations 
+=> Not  a multilangual support for handeling request and response data
+=> not a good datastore , : performs well for small cases , => chokes or loses the data
+=> flexible and powerful data storage search engine , DIFFICULTE TO LEA>RN ( و لكن نحن لها يا هذاااااا) ! 
+
++++++++++ FeAtUrES of ElasticSearch ++++++++++++++++++++++
+scalable
+PERFORMANCe
+multilangual
+document oriented
+AUTO completion and isntant search 
+SCHEMA less
+open source ! 
+
+
